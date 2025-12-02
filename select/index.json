@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "1リッター分の愛をこめて",
+  "base_artist": "Vaundy",
+  "createdAt": "2025-12-02T21:20:06.746140Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "1リッター分の愛をこめて",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/01_1リッター分の愛をこめて_Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "1リッター分の愛をこめて",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/02_1リッター分の愛をこめて_Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "1リッター分の愛をこめて - one liter full of love",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/03_1リッター分の愛をこめて_-_one_liter_full_of_love_Vaundy.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "1リッター分の愛をこめて",
+      "artist": "Vaundy",
+      "has_synced": false,
+      "path": "select/pl_01_1リッター分の愛をこめて_Vaundy.txt"
+    }
+  ]
+}
